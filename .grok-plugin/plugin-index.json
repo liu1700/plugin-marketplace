@@ -634,8 +634,8 @@
       }
     },
     "plori": {
-      "sha": "6b686243d94f8f90e04ded50574b325b9745520e",
-      "version": "0.2.7",
+      "sha": "29fa42af950e1d238c449385c7d9e9d32e220544",
+      "version": "0.2.16",
       "components": {
         "mcpServers": [
           {
@@ -646,7 +646,7 @@
         "skills": [
           {
             "name": "plori",
-            "description": "Create and drive plori agents (each an AI agent in its own cloud environment) from any MCP client, the plori CLI, or ov…"
+            "description": "Runs tasks on Plori cloud agents that continue after the chat ends, such as background or parallel builds, scheduled au…"
           }
         ]
       }
