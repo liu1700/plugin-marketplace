@@ -634,8 +634,8 @@
       }
     },
     "plori": {
-      "sha": "29fa42af950e1d238c449385c7d9e9d32e220544",
-      "version": "0.2.16",
+      "sha": "381c4c76a0a9c81cd2181c7af18ba9df84413cd1",
+      "version": "0.2.17",
       "components": {
         "mcpServers": [
           {
